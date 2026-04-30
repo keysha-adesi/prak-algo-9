@@ -248,5 +248,5 @@ int main()
         system("clear");
 
     } while (choice != '6');
-} 
+}
 
